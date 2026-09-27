@@ -1,0 +1,6 @@
+{
+  "name": "VTX",
+  "description": "منصة VTX للسكربتات والأكواد والألعاب باللون الأسود والبنفسجي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

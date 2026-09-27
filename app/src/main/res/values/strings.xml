@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VTX</string>
+    <string name="tab_scripts">السكربتات</string>
+    <string name="tab_codes">الأكواد</string>
+    <string name="tab_admin">الإدارة</string>
+    <string name="btn_take">أخذ</string>
+    <string name="btn_redeem">استلام</string>
+    <string name="btn_insert">إدراج</string>
+    <string name="admin_password_hint">أدخل كلمة مرور الإدارة</string>
+</resources>
